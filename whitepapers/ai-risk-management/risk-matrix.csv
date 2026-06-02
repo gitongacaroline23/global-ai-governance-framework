@@ -1,0 +1,6 @@
+Risk,Probability,Impact,Mitigation
+Bias,High,High,Model Monitoring
+Hallucinations,High,High,RAG Validation
+Data Leakage,Medium,High,Access Controls
+Prompt Injection,Medium,High,Security Filters
+Compliance Failure,Low,High,Auditing
